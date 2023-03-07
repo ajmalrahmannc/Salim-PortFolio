@@ -147,6 +147,13 @@ ol {
   background-position: top center;
 }
 
+.set-bg1 {
+  background-size: cover;
+  background-position: top center;
+  height: 684px;
+  background-color: #00bfe7;
+}
+
 .spad {
   padding-top: 100px;
   padding-bottom: 100px;
